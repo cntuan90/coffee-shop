@@ -18,6 +18,7 @@ function App() {
           Coffee Shop Is Coming Soon !!!!!!!!!
         </a>
       </header>
+      <a href='www.facebook.com'>Connect to Facebook</a>
     </div>
   );
 }
